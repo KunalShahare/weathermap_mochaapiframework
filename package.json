@@ -1,0 +1,18 @@
+{
+  "name": "openweathermapapitest",
+  "version": "1.0.0",
+  "description": "API Test Framework to get Weather Information",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/*.js --reporter mochawesome"
+  },
+  "author": "kunalshahare@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.4",
+    "chai-http": "^4.3.0",
+    "mocha": "^8.4.0",
+    "mochawesome": "^6.2.2",
+    "rimraf": "^3.0.2"
+  }
+}
