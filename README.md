@@ -25,6 +25,6 @@
 ## Results
 * mochawesome-report folder will be created under root folder automatically after first run.
 * HTML Report Path `./mochawesome-report/mochawesome.html` <br />
-![Results](./Sample_Report.PNG)
+![Results](./Sample_Report.png)
 
 
