@@ -16,7 +16,7 @@
 
 ## Setup Project
 * Clone the source code from git as per below command.<br />
-```git clone```
+```git clone https://github.com/KunalShahare/weathermap_mochaapiframework.git```
 * Import the Project into Visual Studio Code 
 * Open Terminal and Navigate to Project Directory
 * Run `npm install` to download all the dependencies / libraries.
@@ -25,6 +25,6 @@
 ## Results
 * mochawesome-report folder will be created under root folder automatically after first run.
 * HTML Report Path `./mochawesome-report/mochawesome.html`
-![Results](./Sample_Report.PNG)
+![Results](../Sample_Report.PNG)
 
 
